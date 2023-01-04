@@ -1,0 +1,4 @@
+ID,Nombre,TipoID,Rol,FechaIngreso,Telefono,Correo,Username,Password
+118250665,Luis Alejandro Barreda Acevedo,Cedula fisica,Mecanico,10/12/2022,87596881,luis@email.com,luisale06,luisale06
+200020002,Fabian Miranda,Cedula fisica,Mecanico,10/12/2022,12345678,fabian@email.com,fabian02,fab02
+300030003,Franco Rojas,Cedula fisica,Mecanico,10/12/2022,12345678,franco@email.com,franco03,franco03

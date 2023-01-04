@@ -1,0 +1,10 @@
+ID,Placa,DescripciónVehiculo,DescripcionProblema,Costo,FechaRecibido,FechaEntrega,Empleado,Estado
+118250665,LLG068,50000 km,cambio de aceite,25000 colones,26/12/2022,26/12/2022,Luis Alejandro,Espera
+118250665,ABC123,10000km,reparacion de llanta,5000 colones,28/12/2022,28/12/2022,Luis Alejandro Barreda,Finalizado
+100010001,IMP005,100000,instalacion de turbo,3000000 colones,28/12/2022,04/01/2023,Luis Alejandro Barreda,Ejecucion
+200020002,PCT218,30000 km,Cambio de los 4 neumáticos,120000 colones,02/01/2023,02/01/2023,Fabian Miranda,Ejecucion
+118250665,ABC123,50000km,fuga,100000 colones,02/01/2023,04/01/2023,Luis Alejandro Barreda,Espera
+118250665,LLG068,50000km,fuga,100000 colones,02/01/2023,04/01/2023,Luis Alejandro Barreda,Ejecucion
+118250665,SBR004,30000km,fuga,100000 colones,02/01/2023,04/01/2023,Luis Barreda,Espera
+700070007,TCS213,100000,ajuste de frenos,50000,02/01/2023,04/012023,Fabian Miranda,Espera
+100010001,IMP005,100000km,cambio de 4 llantas,400000,02/012023,02/012023,Fabian Miranda,Ejecucion
