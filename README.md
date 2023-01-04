@@ -3,4 +3,4 @@
 
 
 ### Estado del proyecto: Finalizado
-### Enlace del video: https://www.youtube.com/watch?v=hWkyi7S2sCU&ab_channel=LuisAcevedo
+### Enlace del video: https://youtu.be/ZN2vtkvtw84
